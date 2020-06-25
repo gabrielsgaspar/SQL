@@ -1,5 +1,5 @@
 # SQL Projects
-@gabrielsgaspar
+[@gabrielsgaspar](https://github.com/gabrielsgaspar)
 
 
 This is a compilation of SQL queries I have written.
