@@ -1,5 +1,5 @@
 # World Temperature Project
-@gabrielsgaspar
+[@gabrielsgaspar](https://github.com/gabrielsgaspar)
 
 
 This project uses PreSQL in order to pull data for world temperature by cities in order to answer the following questions:
