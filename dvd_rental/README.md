@@ -1,5 +1,5 @@
 # DVD Rental Project
-@gabrielsgaspar
+[@gabrielsgaspar](https://github.com/gabrielsgaspar)
 
 
 This project uses PreSQL in order to pull data from the dvdrental database in order to answer the following questions
