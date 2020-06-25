@@ -2,7 +2,7 @@
 @gabrielsgaspar
 
 
-This uses PreSQL in order to pull data from the dvdrental database in order to answer the following questions
+This project uses PreSQL in order to pull data from the dvdrental database in order to answer the following questions
 
 - We would like to know who were our top 10 paying customers, how many payments they made on a monthly basis during 2007, and what was the amount of the monthly payments. Can you write a query to capture the customer name, month and year of payment, and total payment amount for each month by these top 10 paying customers?
 
